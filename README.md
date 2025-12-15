@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Web Application Security & Penetration Testing<br><br>Solving CTFs (Boot2Root, Web Exploitation, JWT, SSTI)<br><br>Security-focused web projects using MERN / Next.js<br><br>👯 I’m looking to collaborate on<br><br>Open-source cybersecurity tools<br><br>CTF writeups and lab-based security projects<br><br>Web security research & vulnerability testing<br><br>🤝 I’m looking for help with<br><br>Advanced exploitation techniques<br><br>Privilege escalation (Linux & Windows)<br><br>Real-world penetration testing methodologies<br><br>🌱 I’m currently learning<br><br>Ethical Hacking & Cybersecurity<br><br>Web Exploitation (OWASP Top 10, JWT, SSTI, XXE)<br><br>Python for security automation<br><br>Kali Linux & penetration testing tools<br><br>💬 Ask me about<br><br>CTF solving strategies<br><br>Web application vulnerabilities<br><br>TryHackMe labs & walkthroughs<br><br>Basics of ethical hacking and security tools<br><br>⚡ Fun fact<br><br>From struggling to write my first program to solving Boot2Root CTFs — still learning every day 🚀
+🔭 Currently working on<br><br>Web application security & penetration testing<br><br>CTFs (Boot2Root, Web Exploitation)<br><br>👯 Looking to collaborate on<br><br>Open-source cybersecurity projects & CTF writeups<br><br>🤝 Looking for help with<br><br>Advanced exploitation & privilege escalation<br><br>🌱 Currently learning<br><br>Ethical hacking, OWASP Top 10, Python & Kali Linux<br><br>💬 Ask me about<br><br>CTFs, web vulnerabilities, TryHackMe<br><br>⚡ Fun fact<br><br>From struggling to write my first program to solving Boot2Root CTFs — still learning every day 🚀
 
 
 ## 🌐 Socials:
