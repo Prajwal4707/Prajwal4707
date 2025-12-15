@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Currently working on<br><br>Web application security & penetration testing<br><br>👯 Looking to collaborate on<br><br>Open-source cybersecurity projects & CTF writeups<br><br>🤝 Looking for help with<br><br>Advanced exploitation & privilege escalation<br><br>🌱 Currently learning<br><br>Ethical hacking, OWASP Top 10, Python & Kali Linux<br>
+🔭 Currently working on Web application security & penetration testing<br>👯 Looking to collaborate on Open-source cybersecurity projects & CTF writeups<br>🤝 Looking for help with Advanced exploitation & privilege escalation<br>🌱 Currently learning Ethical hacking, OWASP Top 10, Python & Kali Linux
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-allayyanavar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allayyanavarprajwal@gmail.com) 
