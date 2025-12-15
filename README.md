@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Currently working on<br><br>Web application security & penetration testing<br><br>CTFs (Boot2Root, Web Exploitation)<br><br>👯 Looking to collaborate on<br><br>Open-source cybersecurity projects & CTF writeups<br><br>🤝 Looking for help with<br><br>Advanced exploitation & privilege escalation<br><br>🌱 Currently learning<br><br>Ethical hacking, OWASP Top 10, Python & Kali Linux<br><br>💬 Ask me about<br><br>CTFs, web vulnerabilities, TryHackMe<br><br>⚡ Fun fact<br><br>From struggling to write my first program to solving Boot2Root CTFs — still learning every day 🚀
-
+🔭 Currently working on<br><br>Web application security & penetration testing<br><br>CTFs (Boot2Root, Web Exploitation)<br><br>👯 Looking to collaborate on<br><br>Open-source cybersecurity projects & CTF writeups<br><br>🤝 Looking for help with<br><br>Advanced exploitation & privilege escalation<br><br>🌱 Currently learning<br><br>Ethical hacking, OWASP Top 10, Python & Kali Linux<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwal-allayyanavar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allayyanavarprajwal@gmail.com) 
